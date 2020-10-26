@@ -49,4 +49,4 @@ Insert your physical office locations here, if you have any.
 
 ## How to apply
 
-Insert a specific webpage, email, or instructions to apply.
+https://delighted.com/jobs
